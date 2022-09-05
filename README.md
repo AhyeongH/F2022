@@ -7,3 +7,5 @@
 _Python_
 
 # Day 1
+
+## Goals
